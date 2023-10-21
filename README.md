@@ -1,75 +1,57 @@
-<header>
+# Cleyton Santos - Web Develop Full Stack
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Olá! Eu sou o Cleyton Santos, um Desenvolvedor Web Full Stack com formação em Técnico em Informática e atualmente estudante de Análise e Desenvolvimento de Sistemas. Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
 
-# Introduction to GitHub
+## Formação
 
-_Get started using GitHub in less than an hour._
+- Técnico em Informática, Senac;
+- Programação Web, senac + resilia;
+- Análise e Desenvolvimento de Sistemas, Estácio de Sá;
 
-</header>
+## Principais Habilidades e Tecnologias
 
-<!--
-  <<< Author notes: Step 1 >>>
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+Aqui estão algumas das principais tecnologias e linguagens com as quais trabalho:
 
-## Step 1: Create a branch
+- HTML5
+- CSS3
+- JavaScript
+- PHP
+- React
+- Node.js
+- Java
+- SQL
 
-_Welcome to "Introduction to GitHub"! :wave:_
+## Estatísticas do GitHub
 
-**What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning. GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
-<br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cleyton2022&show_icons=true&theme=radical)
 
-**What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+## Principais Linguagens no GitHub
 
-**What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository. By default, your repository has one branch named `main` and it is considered to be the definitive branch. Creating additional branches allows you to copy the `main` branch of your repository and safely make any changes without disrupting the main project. Many people use branches to work on specific features without affecting any other parts of the project.
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton2022&layout=compact&count=16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Branches allow you to separate your work from the `main` branch. In other words, everyone's work is safe while you contribute. For more information, see "[About branches](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-branches)".
 
-**What is a profile README?**: A _[profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)_ is essentially an "About me" section on your GitHub profile where you can share information about yourself with the community on GitHub.com. GitHub shows your profile README at the top of your profile page. For more information, see "[Managing your profile README](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)".
+<div align="center">
 
-![profile-readme-example](/images/profile-readme-example.png)
 
-### :keyboard: Activity: Your first branch
 
-1. Open a new browser tab and navigate to your newly made repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **< > Code** tab in the header menu of your repository.
+</div>
 
-   ![code-tab](/images/code-tab.png)
+<div align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200" />
+</div>
 
-3. Click on the **main** branch drop-down.
+## Contato
 
-   ![main-branch-dropdown](/images/main-branch-dropdown.png)
+Ficou interessado em me conhecer melhor ou quer falar sobre algum projeto? Entre em contato pelo meu e-mail: cleytonsantos24@gmail.com.
 
-4. In the field, name your branch `my-first-branch`. In this case, the name must be `my-first-branch` to trigger the course workflow.
-5. Click **Create branch: my-first-branch** to create your branch.
+## Redes Sociais e Perfis Profissionais
 
-   ![create-branch-button](/images/create-branch-button.png)
+- [Instagram](https://instagram.com/cll_22)
+- [LinkedIn](https://www.linkedin.com/in/cleyton-santos-007tecnicorj/)
 
-   The branch will automatically switch to the one you have just created.
-   The **main** branch drop-down bar will reflect your new branch and display the new branch name.
 
-6. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+## Sobre Mim
 
-<footer>
+Aqui, você pode escrever um breve parágrafo sobre si mesmo, suas paixões, interesses e objetivos relacionados à tecnologia e ao desenvolvimento. Essa seção é uma ótima oportunidade para personalizar o seu perfil e mostrar sua motivação e dedicação à área.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
----
-
-Get help: [Post in our discussion board](https://github.com/orgs/community/discussions/categories/github-education) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
-
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
-
-</footer>
+Espero que meu portfólio demonstre um pouco sobre mim e meu trabalho. Sinta-se à vontade para explorar meus repositórios no GitHub e, se tiver alguma dúvida ou proposta de colaboração, não hesite em entrar em contato. Obrigado pela visita!
