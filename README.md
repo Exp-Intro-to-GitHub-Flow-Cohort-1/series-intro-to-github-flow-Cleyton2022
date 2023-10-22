@@ -1,57 +1,46 @@
-# Cleyton Santos - Web Develop Full Stack
-
-Olá! Eu sou o Cleyton Santos, um Desenvolvedor Web Full Stack com formação em Técnico em Informática e atualmente estudante de Análise e Desenvolvimento de Sistemas. Tenho paixão por tecnologia e estou sempre em busca de aprimorar minhas habilidades e conhecimentos na área de desenvolvimento.
-
-## Formação
-
-- Técnico em Informática, Senac;
-- Programação Web, senac + resilia;
-- Análise e Desenvolvimento de Sistemas, Estácio de Sá;
-
-## Principais Habilidades e Tecnologias
-
-Aqui estão algumas das principais tecnologias e linguagens com as quais trabalho:
-
-- HTML5
-- CSS3
-- JavaScript
-- PHP
-- React
-- Node.js
-- Java
-- SQL
-
-## Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Cleyton2022&show_icons=true&theme=radical)
-
-## Principais Linguagens no GitHub
-
-[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleyton2022&layout=compact&count=16&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<div align="center">
+<!--
+  <<< Author notes: Step 2 >>>
+  Start this step by acknowledging the previous step.
+  Define terms and link to docs.github.com.
+-->
+
+## Step 2: Commit a file
+
+_You created a branch! :tada:_
+
+Creating a branch allows you to edit your project without changing the `main` branch. Now that you have a branch, it’s time to create a file and make your first commit!
+
+**What is a commit?**: A _[commit](https://docs.github.com/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)_ is a set of changes to the files and folders in your project. A commit exists in a branch. For more information, see "[About commits](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/about-commits)".
+
+### :keyboard: Activity: Your first commit
+
+The following steps will guide you through the process of committing a change on GitHub. A commit records changes in renaming, changing content within, creating a new file, and any other changes made to your project. For this exercise, committing a change requires first adding a new file to your new branch.
+
+1. On the **< > Code** tab in the header menu of your repository, make sure you're on your new branch `my-first-branch`.
+
+2. Select the **Add file** drop-down and click **Create new file**.
+
+   ![create new file option](/images/create-new-file.png)
+
+3. In the **Name your file...** field, enter `PROFILE.md`.
+
+   **Note:** `.md` is a file extension that creates a Markdown file. You can learn more about Markdown by visiting "[Basic writing and formatting syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)" in our docs or by taking the "[Communicating using Markdown](https://github.com/skills/communicate-using-markdown)" Skills course.
+
+4. In the **Enter file contents here** area, copy the following content to your file:
+
+   ```
+   Welcome to my GitHub profile!
+   ```
+
+   <img alt="profile.md file screenshot" src="/images/my-profile-file.png"/>
+
+5. Click **Commit changes...** in the upper right corner above the contents box. For commits, you can enter a short commit message that describes what changes you made. This message helps others know what's included in your commit. GitHub offers a simple default message, but let's change it slightly for practice. First, enter `Add PROFILE.md` in the first text-entry field titled "Commit message".
+
+   <img alt="screenshot of adding a new file with a commit message" src="/images/commit-full-screen.png" />
+
+6. In this lesson, we'll ignore the other fields and click **Commit changes**.
+7. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
 
-
-</div>
-
-<div align="center">
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" height="200" />
-</div>
-
-## Contato
-
-Ficou interessado em me conhecer melhor ou quer falar sobre algum projeto? Entre em contato pelo meu e-mail: cleytonsantos24@gmail.com.
-
-## Redes Sociais e Perfis Profissionais
-
-- [Instagram](https://instagram.com/cll_22)
-- [LinkedIn](https://www.linkedin.com/in/cleyton-santos-007tecnicorj/)
-
-
-## Sobre Mim
-
-Aqui, você pode escrever um breve parágrafo sobre si mesmo, suas paixões, interesses e objetivos relacionados à tecnologia e ao desenvolvimento. Essa seção é uma ótima oportunidade para personalizar o seu perfil e mostrar sua motivação e dedicação à área.
-
-Espero que meu portfólio demonstre um pouco sobre mim e meu trabalho. Sinta-se à vontade para explorar meus repositórios no GitHub e, se tiver alguma dúvida ou proposta de colaboração, não hesite em entrar em contato. Obrigado pela visita!
